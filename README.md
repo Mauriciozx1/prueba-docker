@@ -31,11 +31,7 @@ Pequeño sistema el cual contiene lo siguiente:
 - Actualizar `.env` y establecer las credenciales de la base de datos
 - `php artisan key:generate`
 - `php artisan migrate`
-- `php artisan db:seed --class=UserSeeder`
-- `npm install`
-- `npm run dev`
 - `php artisan serve`
-- Ingresa `http://localhost:8000` con: `email:demoprueba@test.cl y contraseña:password`
 
 ## Instalación con Docker
 - `Modificar archivos de configuración`
