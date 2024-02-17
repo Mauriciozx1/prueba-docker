@@ -24,8 +24,8 @@ Pequeño sistema el cual contiene lo siguiente:
 
 ## Instalación sin Docker
 
-- `git clone https://github.com/Mauriciozx1/prueba-api.git`
-- `cd prueba-api`
+- `git clone https://github.com/Mauriciozx1/prueba-docker.git`
+- `cd prueba-docker`
 - `composer install`
 - `cp .env.example .env`
 - Actualizar `.env` y establecer las credenciales de la base de datos
