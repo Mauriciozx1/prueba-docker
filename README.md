@@ -1,4 +1,4 @@
-# API SPA Laravel 9 + Vue3
+# API SPA Laravel 10
 ## Sobre Repositorio
 
 Pequeño sistema el cual contiene lo siguiente:
