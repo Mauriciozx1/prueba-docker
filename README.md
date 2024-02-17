@@ -1,4 +1,4 @@
-# API SPA Laravel 10
+# API REST Laravel 10
 ## Sobre Repositorio
 
 Pequeño sistema el cual contiene lo siguiente:
