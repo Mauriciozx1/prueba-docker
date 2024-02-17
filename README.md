@@ -3,8 +3,8 @@
 
 Pequeño sistema el cual contiene lo siguiente:
 - Atributos de usuarios: name, email, password
-- Atributos de tareas: descrition
-- Se utilizan las marcas de tiempo para: creación, actualizacion y eliminación de usuarios.
+- Atributos de tareas: description
+- Se utilizan las marcas de tiempo para: creación, actualizacion y eliminación de tareas.
 - Se incorporan validaciones en formularios de las solicitudes del backend.
 - La lista de usuarios y tareas esta compaginada.
 - La autenticacion se realiza por Token.
